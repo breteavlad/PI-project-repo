@@ -1,0 +1,4 @@
+C:\Users\Alex\OneDrive\Escritorio\OpenCVApplication-VS2019_OCV451_basic\x64\Debug\OpenCVApplication.exe
+C:\Users\Alex\OneDrive\Escritorio\‎\UTCN\2023 - 2024\Sem2\PI\OpenCVApplication-VS2019_OCV451_basic\x64\Debug\OpenCVApplication.exe
+C:\Users\Alex\OneDrive\Escritorio\-\UTCN\2023 - 2024\Sem2\PI\OpenCVApplication-VS2019_OCV451_basic\x64\Debug\OpenCVApplication.exe
+C:\Users\Alex\OneDrive\Escritorio\-\UTCN\2023 - 2024\Sem2\PI\Proiect\PI-project-repo\code\PI_Project\x64\Debug\PI_Project.exe

@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (OpenCVApplication.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  OpenCVApplication.cpp
+  OpenCVApplication.vcxproj -> C:\Users\Alex\OneDrive\Escritorio\-\UTCN\2023 - 2024\Sem2\PI\Proiect\PI-project-repo\code\PI_Project\x64\Debug\PI_Project.exe
+  OpenCV\dll\Debug\opencv_videoio_ffmpeg451_64d.dll
+  OpenCV\dll\Debug\opencv_videoio_msmf451_64d.dll
+  OpenCV\dll\Debug\opencv_world451d.dll
+          3 file(s) copied.
